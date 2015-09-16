@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 觀虛空藏菩薩經
+#+DATE: 2015-08-30 20:06:28.507191
+#+PROPERTY: JUAN 0
